@@ -1,14 +1,16 @@
+package com.mycompany.app;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class Zad1Test {
+class CreditCardValidatorTest {
 
-    Zad1 zad1;
+    CreditCardValidator zad1;
 
     @org.junit.jupiter.api.BeforeEach
     void setUp() {
-        zad1 = new Zad1();
+        zad1 = new CreditCardValidator();
     }
 
     @org.junit.jupiter.api.AfterEach

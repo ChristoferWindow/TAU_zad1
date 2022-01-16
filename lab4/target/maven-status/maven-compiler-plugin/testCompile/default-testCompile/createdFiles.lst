@@ -1,1 +1,2 @@
-ExampleTest.class
+com/mycompany/app/CreditCardValidatorTest.class
+com/mycompany/app/DateTimeConverterTest.class

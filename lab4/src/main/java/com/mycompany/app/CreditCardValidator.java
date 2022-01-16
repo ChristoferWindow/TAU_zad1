@@ -1,4 +1,6 @@
-public class Zad1 {
+package com.mycompany.app;
+
+public class CreditCardValidator {
 
     public boolean IsAdult(Integer age) throws NumberLessThanZeroException {
         if (age < 0) {

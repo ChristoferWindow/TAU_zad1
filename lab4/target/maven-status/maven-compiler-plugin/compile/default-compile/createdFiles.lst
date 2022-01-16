@@ -1,2 +1,6 @@
-Example.class
-Grades.class
+com/mycompany/app/CvvLengthIncorrectException.class
+com/mycompany/app/DateTimeConverter.class
+com/mycompany/app/NumberLessThanZeroException.class
+com/mycompany/app/StringToShortException.class
+com/mycompany/app/CvvNotANumberException.class
+com/mycompany/app/StringNotAsciiException.class
